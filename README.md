@@ -1,4 +1,4 @@
-## Youtube UI Clone with React.js
+## Facebook UI Clone with React.js
 
 **A small Facebook frontend clone made using React.js. JSX markup language was used and pure css was written.
 
