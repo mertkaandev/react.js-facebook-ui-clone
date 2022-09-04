@@ -1,14 +1,32 @@
-## Facebook UI Clone with React.js
+## Youtube UI Clone with React.js
+
+**A small Facebook frontend clone made using React.js. JSX markup language was used and pure css was written.
 
 ### Run
 
+1. Firstly, install dependencies in package.json file:
+
+ + `react`: 17.0.2
+ + `react-dom`: 17.0.2
+ + `react-router-dom`: 5.2.0
+ + `@material-ui/core`: 4.11.3
+ + `@material-ui/icons`: 4.11.2
+  
+2. After, just run:
+  
 `npm run start`
+
+---
 
 ### File Structure:
 
- + Pages
- + Components
- + Partials
+ + Pages: Home page, Profile page, login page, register page
+ + Components: Topbar component, sidebar component, rightbar component, feed component, profileFeed component
+ + Partials: Feed (header, post, share), rightbar (online), sidebar (friends)
+
+---
+
+### Snapshot
 
 1. Home page
 
@@ -22,10 +40,10 @@
 
 3. Login
 
-![login](https://user-images.githubusercontent.com/101933251/188287326-7efdec94-b8cd-4c6d-b1ef-04c56f01c00c.JPG)
+![Sign in](https://user-images.githubusercontent.com/101933251/188335096-230a7618-e2dd-4c3e-9b17-0334f89163ac.JPG)
 
 4. Register
 
-![register](https://user-images.githubusercontent.com/101933251/188287321-f4adbd3a-db54-4cfe-a5d1-a97fcad11fe0.JPG)
+![sign up](https://user-images.githubusercontent.com/101933251/188335099-ff4a26fd-ec5a-4ff7-86b1-5d891bb9275c.JPG)
 
 
